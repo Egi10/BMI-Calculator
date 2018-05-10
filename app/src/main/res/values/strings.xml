@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BMI Calculator</string>
+    <string name="detail">Perlu diingat BMI tidak dapat diaplikasikan kepada anak-anak, wanita hamil, orang berbadan berotot, dan orang tua.</string>
+    <string name="bmi">BMI Adalah singkatan dari Body Mass Index, yang merupakan ukuran yang digunakan untuk menilai proporsionalitas perbandingan antara tinggi dan berat seseorang.  BMI sering digunakan dokter untuk menilai seseorang itu obese atau tidak.</string>
+</resources>
